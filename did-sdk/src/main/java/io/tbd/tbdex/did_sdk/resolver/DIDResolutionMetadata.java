@@ -1,4 +1,4 @@
-package io.tbd.tbdex.did.resolver;
+package io.tbd.tbdex.did_sdk.resolver;
 
 public class DIDResolutionMetadata {
     String contentType;

@@ -1,8 +1,6 @@
 package io.tbd.tbdex.protocol.core;
 
 import io.tbd.tbdex.protocol.InMemoryMessageThreadStore;
-import io.tbd.tbdex.protocol.core.Message;
-import io.tbd.tbdex.protocol.core.MessageThreadProcessor;
 import io.tbd.tbdex.protocol.messages.Close;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

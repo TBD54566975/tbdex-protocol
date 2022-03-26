@@ -1,4 +1,4 @@
-package io.tbd.tbdex.did.resolver;
+package io.tbd.tbdex.did_sdk.resolver;
 
 /**
  * An enum containing all the possible Resolution error codes that can be present in {@link DIDResolutionMetadata}

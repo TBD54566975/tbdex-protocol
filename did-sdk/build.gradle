@@ -13,6 +13,9 @@ repositories {
 }
 
 dependencies {
+    api 'com.github.erosb:everit-json-schema:1.14.0'
+    api 'com.jayway.jsonpath:json-path:2.7.0'
+    api 'com.google.code.gson:gson:2.9.0'
     api 'decentralized-identity:did-common-java:1.0.0'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
